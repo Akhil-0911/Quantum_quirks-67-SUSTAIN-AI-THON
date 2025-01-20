@@ -62,4 +62,6 @@ Rento is a mobile application designed to revolutionize the way people access to
 - **Scalability**: The app is built to scale as the user base grows, with a flexible architecture and cloud-based backend to accommodate more transactions and data efficiently.
 - **Cross-Platform Compatibility**: Rento is built using Flutter, ensuring smooth and consistent functionality on both iOS and Android devices without needing to develop separate codebases.
 
+## Prototype
+
 
