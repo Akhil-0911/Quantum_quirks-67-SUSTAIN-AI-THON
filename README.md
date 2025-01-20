@@ -13,6 +13,8 @@ Rento is a mobile application designed to revolutionize the way people access to
 
 ## Concept Map
 
+![Image](https://github.com/user-attachments/assets/3ef1402d-145e-43db-a625-c3d3611e8cc3)
+
 ---
 
 ## Tech Stack
