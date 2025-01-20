@@ -65,3 +65,7 @@ Rento is a mobile application designed to revolutionize the way people access to
 ## Prototype
 
 https://www.figma.com/proto/2a48Lqt6BeHAwJDPjX6Xmq/Figma-basics?page-id=1669%3A162202&node-id=601-12&viewport=227%2C265%2C0.31&t=K1lZiIPQuHGI7qMp-1&scaling=scale-down&content-scaling=fixed
+
+## Project Related Repositories
+- [Other Repository](https://github.com/Akhil-0911/Rentify)
+
