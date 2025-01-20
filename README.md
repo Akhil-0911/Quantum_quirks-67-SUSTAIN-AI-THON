@@ -5,6 +5,16 @@ Rento is a mobile application designed to revolutionize the way people access to
 
 ---
 
+## Workflow Diagram
+
+![Image](https://github.com/user-attachments/assets/63eea8aa-2f66-4b7d-9393-a01e54e3d54c)
+
+---
+
+## Concept Map
+
+---
+
 ## Tech Stack
 
 ### Frontend
